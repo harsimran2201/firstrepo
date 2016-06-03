@@ -2,6 +2,7 @@
 #include<stdlib.h>
 int main()
 {
-	printf("hello world\n");
+	int a;
+	printf("hello to the world of linux\n");
 	return 0;
 }
